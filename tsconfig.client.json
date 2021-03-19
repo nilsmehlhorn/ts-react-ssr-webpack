@@ -1,0 +1,16 @@
+{
+  "include": ["client"],
+  "compilerOptions": {
+    "module": "es6",
+    "target": "es5",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true
+  }
+}
